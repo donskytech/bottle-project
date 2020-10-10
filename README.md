@@ -1,7 +1,10 @@
 # bottle-project
-REST Server style project for IOT use using Bottle
+REST Server style project for IOT use using Bottle.  It access a database created by sqllite.
+Use by www.donskytech.com on sample projects
 ***************************************************************************************************************************************
-Please do the following items first https://github.com/donskytech/database-project before following these steps if you have not done so.
+I used Windows 10 here.
+
+Please do the following items first in this link https://github.com/donskytech/database-project before following these steps if you have not done so.
 That link creates our test database project.
 
 Steps on how to run this application:
