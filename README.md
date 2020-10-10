@@ -8,6 +8,10 @@ Steps on how to run this application:
 
 1.  Install Python
 2.  Install pip
+      ```
+            Download this file https://bootstrap.pypa.io/get-pip.py
+            python get-pip.py
+      ```
 3.  Install bottle
       ```
       pip install bottle
