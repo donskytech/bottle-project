@@ -1,5 +1,8 @@
 # bottle-project
 REST Server style project for IOT use using Bottle
+***************************************************************************************************************************************
+Please do the following items first https://github.com/donskytech/database-project before following these steps if you have not done so.
+That link creates our test database projec.
 
 Steps on how to run this application:
 
